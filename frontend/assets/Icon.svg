@@ -1,0 +1,24 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect rx="52" stroke="#51b3ff" id="svg_1" height="576.00002" width="576" y="10.45946" x="12.04054" stroke-width="0" fill="#449cf4"/>
+  <ellipse stroke="null" ry="18.59459" rx="18.59459" id="svg_2" cy="533.7129" cx="168.65197" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="30.48649" rx="30.48649" id="svg_4" cy="458.8919" cx="476.44595" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="12.37838" rx="12.37838" id="svg_5" cy="381.55072" cx="206.23435" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="13.18919" rx="13.18919" id="svg_6" cy="349.38855" cx="278.88351" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="17.51351" rx="17.51351" id="svg_7" cy="288.62161" cx="342.39186" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="23.45946" rx="23.45946" id="svg_8" cy="134.25345" cx="91.35467" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="25.89189" rx="25.89189" id="svg_14" cy="168.57777" cx="437.5857" stroke-width="6" fill="#ffffff"/>
+  <ellipse stroke="null" ry="15.62162" rx="15.62162" id="svg_15" cy="45.33453" cx="314.86818" stroke-width="6" fill="#ffffff"/>
+  <line stroke-width="16" stroke="#ffffff" id="svg_16" y2="458.91892" x2="478.64865" y1="536.21622" x1="166.21622" fill="none"/>
+  <line stroke-width="4" id="svg_17" y2="382.7027" x2="204.59459" y1="534.59459" x1="170" stroke="#ffffff" fill="none"/>
+  <line stroke-width="4" id="svg_18" y2="350.27027" x2="279.18919" y1="382.7027" x1="205.13514" stroke="#ffffff" fill="none"/>
+  <line stroke-width="4" id="svg_19" y2="290.27027" x2="342.43243" y1="350.81081" x1="279.18919" stroke="#ffffff" fill="none"/>
+  <line stroke-width="4" id="svg_20" y2="289.72973" x2="343.51351" y1="167.02703" x1="439.72973" stroke="#ffffff" fill="none"/>
+  <line stroke-width="7" id="svg_21" y2="381.62162" x2="205.13514" y1="137.2973" x1="91.62162" stroke="#ffffff" fill="none"/>
+  <line stroke-width="6" id="svg_22" y2="460" x2="478.64865" y1="288.64865" x1="342.43243" stroke="#ffffff" fill="none"/>
+  <line stroke-width="12" id="svg_23" y2="170.81081" x2="434.32432" y1="132.43243" x1="92.16216" stroke="#ffffff" fill="none"/>
+  <line stroke-width="7" id="svg_24" y2="44.86486" x2="315.40541" y1="134.05405" x1="91.62162" stroke="#ffffff" fill="none"/>
+  <line stroke-width="11" id="svg_25" y2="167.02703" x2="435.40541" y1="44.32432" x1="315.40541" stroke="#ffffff" fill="none"/>
+ </g>
+</svg>
