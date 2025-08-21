@@ -1,25 +1,34 @@
 <template>
     <div class="splash-container">
+        <div class="welcome-text">欢迎使用Orion!🌕</div>
         <img src="@/assets/logo.svg" alt="Logo" class="logo" />
     </div>
 </template>
 
-<script setup>
-// 暂时不用 JS
-</script>
-
 <style scoped>
     .splash-container {
-        width: 100vw;       /* 占满全屏宽 */
-        height: 100vh;      /* 占满全屏高 */
-        display: flex;      /* 启用 Flex 布局 */
-        justify-content: center; /* 水平居中 */
-        align-items: center;     /* 垂直居中 */
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        /* 上下布局空间分配 */
+        justify-content: flex-start; 
+        padding-top: 70px; /* welcome-text 顶部偏下 */
+    }
+
+    .welcome-text {
+        font-size: 37px;
+        margin-bottom: 30px;
     }
 
     .logo {
-        width: 200px;   /* 控制 logo 大小 */
+        width: 200px;
         height: 200px;
+        
+        /* 将图片推到剩余空间的垂直居中 */
+        margin-top: auto; 
+        margin-bottom: auto;
     }
 </style>
-
