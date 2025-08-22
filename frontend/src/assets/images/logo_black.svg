@@ -1,0 +1,27 @@
+<svg width="450" height="150" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text fill="#000000" stroke-width="0" x="140.20954" y="100.08327" id="svg_1" font-size="106" font-family="'Yrsa'" text-anchor="start" xml:space="preserve" font-style="italic" stroke="#000000">Orion</text>
+  <ellipse fill="#000000" stroke-width="0" cx="36.09049" cy="136.7381" id="svg_5" rx="4.16667" ry="4.16667" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="116.80477" cy="129.59524" id="svg_6" rx="7.97619" ry="7.97619" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="49.30477" cy="99.71429" id="svg_7" rx="2.85714" ry="2.85714" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="69.66192" cy="93.88096" id="svg_8" rx="3.21429" ry="3.21429" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="89.06668" cy="81.38096" id="svg_9" rx="2.85714" ry="2.85714" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="18.94763" cy="39.59524" id="svg_10" rx="5.35714" ry="5.35714" stroke="#000000"/>
+  <ellipse fill="#000000" stroke-width="0" cx="96.56668" cy="41.02382" id="svg_11" rx="3.92857" ry="3.92857" stroke="#000000"/>
+  <line fill="none" stroke="#000000" x1="35.55791" y1="137.1579" x2="117.40001" y2="130.05263" id="svg_12" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="35.55791" y1="137.1579" x2="49.50527" y2="99.52632" id="svg_13" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="49.24212" y1="99.78948" x2="70.03159" y2="94" id="svg_14" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="88.97896" y1="81.36842" x2="69.50527" y2="94.52632" id="svg_15" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="18.7158" y1="40.05263" x2="97.13685" y2="41.36842" id="svg_16" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="89.24212" y1="81.36842" x2="117.40001" y2="130.31579" id="svg_17" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="18.45264" y1="39.52632" x2="49.24212" y2="99.52632" id="svg_18" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="97.40001" y1="40.84211" x2="89.24212" y2="81.63158" id="svg_19" stroke-width="3"/>
+  <ellipse fill="#000000" stroke-width="0" cx="47.34762" cy="12.39525" id="svg_20" rx="6.55714" ry="6.55714" stroke="#000000"/>
+  <line fill="none" stroke="#000000" x1="18.79994" y1="39.20001" x2="47.59993" y2="12.00001" id="svg_21" stroke-width="3"/>
+  <line fill="none" stroke="#000000" x1="47.59993" y1="12.00001" x2="96.79993" y2="41.60001" id="svg_22" stroke-width="3"/>
+  <line stroke="#000000" fill="none" x1="151.00001" y1="111.73088" x2="423.78376" y2="111.73088" id="svg_23"/>
+  <text fill="#000000" stroke="#000000" stroke-width="0" x="150.05524" y="130.19999" id="svg_24" font-size="11" font-family="'Asap'" text-anchor="start" xml:space="preserve">猎户座蓝军工具平台</text>
+ </g>
+
+</svg>

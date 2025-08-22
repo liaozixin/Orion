@@ -1,21 +1,22 @@
 {
-  "name": "orion",
-  "version": "0.0.1",
-  "description": "Orion蓝军工具集",
-  "main": "index.js",
-  "repository": "git@github.com:liaozixin/Orion.git",
-  "author": "liaozixin <1571155318@qq.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.1",
-    "vite": "^7.1.3"
-  },
-  "dependencies": {
-    "vue": "^3.5.19"
-  },
-  "scripts": {
-    "dev": "vite",             
-    "build": "vite build",     
-    "preview": "vite preview" 
-  }
+    "name": "orion",
+    "version": "0.0.1",
+    "description": "Orion蓝军工具集",
+    "main": "index.js",
+    "repository": "git@github.com:liaozixin/Orion.git",
+    "author": "liaozixin <1571155318@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^6.0.1",
+        "vite": "^7.1.3"
+    },
+    "dependencies": {
+        "normalize.css": "^8.0.1",
+        "vue": "^3.5.19"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    }
 }
