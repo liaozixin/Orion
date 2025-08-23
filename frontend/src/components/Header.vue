@@ -1,6 +1,6 @@
 <template>
     <div class="header-region">
-        <img class="logo" src="../assets/images/logo_white.svg" alt="Logo"/>
+        <img class="logo" src="@/assets/images/logo_white.svg" alt="Logo"/>
     </div>
 </template>
 

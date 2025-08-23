@@ -3,7 +3,7 @@
         <div class="navigation"></div>
         <div class="collapse-toggle">
             <button class="toggle" :class="{ active: isActive }" @click="toggle">
-                <img src="../assets/images/expand.svg" alt="Collapse" />
+                <img src="@/assets/images/expand.svg" alt="Collapse" />
             </button>
         </div>
     </div>
