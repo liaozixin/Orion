@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "rete": "^2.0.6",
-    "rete-vue-plugin": "^2.1.2"
-  }
-}
